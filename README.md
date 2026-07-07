@@ -22,8 +22,7 @@
 
 ## 🎯 Live Demo
 
-**Try JARVIS Now:** [https://garvita2003.github.io/JarvisAIChatBot/](https://garvita2003.github.io/JarvisAIChatBot/)
-Simply click the microphone button and speak to interact with JARVIS!
+**Try JARVIS Now:** [https://garvita2003.github.io/SelfDrivingCar/](https://garvita2003.github.io/SelfDrivingCar/)
 
 ---
 
